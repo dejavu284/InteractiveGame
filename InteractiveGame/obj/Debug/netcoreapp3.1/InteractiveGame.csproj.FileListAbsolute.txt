@@ -1,0 +1,14 @@
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.exe
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.deps.json
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.runtimeconfig.json
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.runtimeconfig.dev.json
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.dll
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\bin\Debug\netcoreapp3.1\InteractiveGame.pdb
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.AssemblyInfo.cs
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.dll
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.pdb
+C:\Users\Я\source\repos\RealeProjects\InteractiveGame\InteractiveGame\obj\Debug\netcoreapp3.1\InteractiveGame.genruntimeconfig.cache
